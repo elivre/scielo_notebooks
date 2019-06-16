@@ -1,0 +1,15 @@
+periodico_classe;periodico_issn_scielo;periodico_cod;periodico_sigla;periodico_nome;periodico_qualis_cp;periodico_area;periodico_instituicao;periodico_cod_instituicao;periodico_cidade_da_instituicao;periodico_cod_cidade
+objeto;0104-6276;1;OP;Opinião Pública;A1;CP mainstream;Unicamp;1;Campinas;1
+objeto;0011-5258;2;Dados;Dados;A1;Ciência Política não mainstream;IESP;2;Rio de Janeiro;2
+objeto;0034-7329;3;RBPI;Revista Brasileira de Política Internacional;A1;RI;IBRI;3;Brasília;3
+objeto;1981-3821;4;BPSR;Brazilian Political Science Review;A2;CP mainstream;ABCP;4;São Paulo;4
+objeto;0104-4478;5;RevSocP;Revista de Sociologia e Política;A2;Ciência Política não mainstream;UFPR;5;Curitiba;5
+objeto;0102-6445;6;Lua Nova;Lua Nova: Revista de Cultura e Política;A2;Ciência Política não mainstream;CEDEC;6;São Paulo;4
+objeto;0102-8529;7;Contexto Internacional;Contexto Internacional;A2;RI;PUC-Rio;7;Rio de Janeiro;2
+objeto;0103-3352;8;RBCP;Revista Brasileira de Ciência Politica;B1;Ciência Política não mainstream;UNB;14;Brasília;3
+controle;0104-9313;9;Mana;Mana;B1;Antropologia;UFRJ;8;Rio de Janeiro;2
+controle;0103-2070;10;Tempo Social;Tempo Social;B1;Sociologia;USP;9;São Paulo;4
+controle;0102-0188;11;RBH;Revista Brasileira de História;B1;História;ANPUH;10;São Paulo;4
+controle;0034-7140;12;RBE;Revista Brasileira de Economia;B1;Economia;FGV-RJ;11;Rio de Janeiro;2
+controle;0101-3173;13;Trans/Form/Ação;Trans/Form/Ação;B1;Filosofia;Unesp;12;Marília;6
+controle;1415-4757;14;Genetics and Molecular Biology;Genetics and Molecular Biology;sem Qualis;Genética;Sociedade Brasileira de Genética;13;Ribeirão Preto;7
